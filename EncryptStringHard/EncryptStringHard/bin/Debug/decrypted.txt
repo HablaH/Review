@@ -1,2 +1,0 @@
-Unix programmers can combine command-line POSIX tools into a complete development environment, capable of developing large programs such as the Linux kernel and its environment.[8] In this sense, the entire Unix system
-

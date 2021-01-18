@@ -1,0 +1,7 @@
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\HablaH\Documents\Koding\Github\Modul3\div solo oppgaver\AdventureGame\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojAssemblyReference.cache

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FAC6597C-9A08-46BE-A506-6F8488FC2A32}</ProjectGuid>
+    <ProjectGuid>{A42BE977-72B0-4A88-B66D-851B555F7909}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EncryptStringHard</RootNamespace>
-    <AssemblyName>EncryptStringHard</AssemblyName>
+    <RootNamespace>AdventureGame</RootNamespace>
+    <AssemblyName>AdventureGame</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Door.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="Inventory.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Key.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Room.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
