@@ -11,3 +11,16 @@ C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig1\Slektstre\Slektstre\
 C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.dll
 C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.pdb
 C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.genruntimeconfig.cache
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.exe
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.deps.json
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.runtimeconfig.json
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.runtimeconfig.dev.json
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.dll
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\bin\Debug\netcoreapp3.1\Slektstre.pdb
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.AssemblyInfoInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.AssemblyInfo.cs
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.dll
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.pdb
+C:\Users\HablaH\Documents\Koding\Github\Review\Oblig1\Slektstre\Slektstre\obj\Debug\netcoreapp3.1\Slektstre.genruntimeconfig.cache

@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
+      "projectUniqueName": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
       "projectName": "SlektstreTest",
-      "projectPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
+      "projectPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
       "packagesPath": "C:\\Users\\HablaH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\SlektstreTest\\obj\\",
+      "outputPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\SlektstreTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HablaH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4665,8 +4665,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\Slektstre\\Slektstre.csproj": {
-              "projectPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\Slektstre\\Slektstre.csproj"
+            "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\Slektstre\\Slektstre.csproj": {
+              "projectPath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\Slektstre\\Slektstre.csproj"
             }
           }
         }

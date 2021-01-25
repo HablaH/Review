@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kUJcPCUV5vtIpSkMxlqxKbkoMOoUYwsN6OfqUR0czaIrdV/eGqJZCbINxvY7JR3QuT3VY+mzm8whT3dZngU2w==",
+  "dgSpecHash": "ucq7NSN9/8VsXz4jL6GPojoppE2INYPGLjoYPCHzEP66k3pFKdzV2vobbnRd+aj/4XEV6Mv4Y51vioN0SXshTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Modul3\\Oblig\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
+  "projectFilePath": "C:\\Users\\HablaH\\Documents\\Koding\\Github\\Review\\Oblig1\\Slektstre\\SlektstreTest\\SlektstreTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HablaH\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\HablaH\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
