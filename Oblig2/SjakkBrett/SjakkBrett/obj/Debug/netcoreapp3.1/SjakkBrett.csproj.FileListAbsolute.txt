@@ -1,0 +1,13 @@
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.exe
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.deps.json
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.runtimeconfig.json
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.runtimeconfig.dev.json
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.dll
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\bin\Debug\netcoreapp3.1\SjakkBrett.pdb
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.csprojAssemblyReference.cache
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.AssemblyInfoInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.AssemblyInfo.cs
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.csproj.CoreCompileInputs.cache
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.dll
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.pdb
+C:\Users\HablaH\Documents\Koding\Github\Modul3\Oblig\Oblig2\SjakkBrett\SjakkBrett\obj\Debug\netcoreapp3.1\SjakkBrett.genruntimeconfig.cache
